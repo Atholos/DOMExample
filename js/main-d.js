@@ -56,5 +56,7 @@ const picArray = [
     'filename': 'img/pic3.jpg',
   },
 ];
-
 // Put code of task D here
+for (let i = 0; i < picArray.length; i++){
+  console.log(picArray[i])
+}
